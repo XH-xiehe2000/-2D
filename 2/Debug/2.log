@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\vs project\2\2\main.cpp(112): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs project\2\2\main.cpp(121): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  2.vcxproj -> D:\VS Project\2\Debug\2.exe
