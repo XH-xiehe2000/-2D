@@ -1,0 +1,18 @@
+﻿  main.cpp
+d:\vs project\3\3\main.cpp(226): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\vs project\3\3\main.cpp(236): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vs project\3\3\main.cpp(238): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vs project\3\3\main.cpp(256): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vs project\3\3\main.cpp(258): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vs project\3\3\main.cpp(280): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vs project\3\3\main.cpp(296): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vs project\3\3\main.cpp(298): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vs project\3\3\main.cpp(322): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vs project\3\3\main.cpp(338): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vs project\3\3\main.cpp(340): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vs project\3\3\main.cpp(408): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs project\3\3\main.cpp(596): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs project\3\3\main.cpp(598): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\vs project\3\3\main.cpp(662): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\vs project\3\3\main.cpp(766): warning C4326: “main”的返回类型应为“int”而非“void”
+  3.vcxproj -> D:\VS Project\3\Debug\3.exe
